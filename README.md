@@ -1,2 +1,2 @@
 # ImageProcessing
-First steps in ImageProcessing.
+Erste Schritte in der Bildbearbeitung.
